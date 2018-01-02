@@ -24,3 +24,6 @@ You will receive a standard Slack API response in JSON as described [here](https
 Error|Description
 --------|-------
 paid_only|Error message when used with a free Slack team
+user_is_bot|Using a bot with insuffcient access
+invalid_auth|Invalid token
+user_not_found|User not found
